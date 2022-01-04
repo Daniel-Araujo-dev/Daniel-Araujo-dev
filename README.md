@@ -20,5 +20,5 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010) 
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![C#](https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
-![React](https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=reactjs&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 
