@@ -23,3 +23,8 @@
 ![React](https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-critical?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 
+<div align="center">
+  <a href="https://github.com/Daniel-Araujo-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
