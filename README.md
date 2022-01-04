@@ -16,5 +16,5 @@
 - Seeks to help anyone. 
 
 ### Skills
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) ![HTML](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) ![HTML](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
