@@ -15,3 +15,5 @@
 - Amazing Speaker. 
 - Seeks to help anyone. 
 
+### Skills
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)
