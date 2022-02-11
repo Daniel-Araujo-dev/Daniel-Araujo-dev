@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m Python, REACT, NodeJS, Bootstrap. 
+- 🌱 I’m learning Python, REACT, NodeJS, Bootstrap. 
 - 👯 I’m looking to collaborate on any Web development project out there
 - 💬 Ask me about anything!
 - 📫 You can reach me on my mail, o personal twitter.
